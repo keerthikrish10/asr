@@ -49,6 +49,8 @@
 - No streaming support for longer audio files
 - Limited concurrent request handling
 
+  ### **5. Greedy decoder instead of beam search for decoding logits**
+
 ---
 
 ## ❌ **Unimplemented Components & Limitations**
