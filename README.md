@@ -166,7 +166,7 @@ curl -X POST "http://localhost:8000/transcribe" \
   -F "preprocessing_intensity=medium"
 ```
 #### **Inference**
-![Alt Text](https://github.com/keerthikrish10/asr/inference.png)
+![Alt Text](inference.png)
 
 ### 📊 **Preprocessing Levels**
 
