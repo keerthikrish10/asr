@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/Preprocessing-3%20Levels-orange?style=for-the-badge" alt="Preprocessing">
 </div>
 
-This project provides a **high-performance API** to transcribe short audio clips (1–30 seconds) into text using NVIDIA NeMo's state-of-the-art speech recognition models. Built with production environments in mind, it offers robust audio processing capabilities with Docker containerization.
+This project provides a **high-performance API** to transcribe short audio clips (1–16.7 seconds) into text using NVIDIA NeMo's state-of-the-art speech recognition models. Built with production environments in mind, it offers robust audio processing capabilities with Docker containerization.
 
 ### ✨ **Key Features**
 
