@@ -77,6 +77,8 @@ This project provides a **high-performance API** to transcribe short audio clips
 
 | Feature | Description |
 |---------|-------------|
+|**Async support** |allows multiple requests without blocking |
+| **Audio Pre Processing**| implemented band pass filter , spectral substraction, denoising methods , audio normalisation , silence removal |
 | 🎵 **Audio Validation** | Intelligent format validation and duration checking |
 | 🔄 **Auto-Conversion** | Seamless MP3 to WAV conversion using FFmpeg |
 | ⚙️ **Preprocessing Levels** | Customizable preprocessing (Low/Medium/High) |
