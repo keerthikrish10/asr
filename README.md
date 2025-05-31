@@ -165,6 +165,8 @@ curl -X POST "http://localhost:8000/transcribe" \
   -F "audio_file=@/path/to/your/audio.mp3" \
   -F "preprocessing_intensity=medium"
 ```
+#### **Inference**
+![Alt Text](https://github.com/keerthikrish10/asr/inference.png)
 
 ### 📊 **Preprocessing Levels**
 
