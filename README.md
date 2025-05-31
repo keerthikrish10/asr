@@ -222,9 +222,9 @@ Distributed under the **MIT License**. See [LICENSE.txt](LICENSE.txt) for more i
 
 **Keerthi Krishna**
 
-[![Email](https://img.shields.io/badge/Email-keerthikrishna@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthikrishna@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-your_username-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your_username)
-[![Project Link](https://img.shields.io/badge/Project-nemo--asr--fastapi-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your_username/nemo-asr-fastapi)
+[![Email](https://img.shields.io/badge/Email-keerthikrishna@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skeerthi.krish@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-your_username-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthikrish10)
+[![Project Link](https://img.shields.io/badge/Project-nemo--asr--fastapi-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthikrish10/asr/)
 
 </div>
 
